@@ -16,3 +16,7 @@ https://www.digitalocean.com/community/questions/how-to-find-the-login-info-for-
 https://www.youtube.com/watch?v=BUasdmczmMw
 
 https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgresql-on-ubuntu-16-04
+
+https://serverfault.com/a/254706 by: HUB.
+
+https://askubuntu.com/a/424039 by: Maythux.
