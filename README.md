@@ -20,3 +20,13 @@ https://www.digitalocean.com/community/tutorials/how-to-install-and-use-postgres
 https://serverfault.com/a/254706 by: HUB.
 
 https://askubuntu.com/a/424039 by: Maythux.
+
+https://www.digitalocean.com/community/questions/how-to-log-in-as-non-root-user-via-ssh
+
+https://www.digitalocean.com/community/questions/secure-ubuntu-server-for-non-root-user-using-only-ssh-keys?answer=22286
+
+https://askubuntu.com/a/695704 by: Neil.
+
+https://mediatemple.net/community/products/dv/204643810/how-do-i-disable-ssh-login-for-the-root-user
+
+https://www.cyberciti.biz/faq/howto-start-stop-ssh-server/
