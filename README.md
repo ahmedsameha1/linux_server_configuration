@@ -1,9 +1,9 @@
 RESOURCES
 =========
 
-The web search has been done using: https://www.google.com.eg/ (this URL was copied from Google Chrome browser).
+The web search has been done using: https://www.google.com.eg/ (this URL was copied from Google Chrome browser(https://www.google.com/chrome/)).
 
-I used Google Chrome browser to work on this project.
+I used Google Chrome browser (https://www.google.com/chrome/) to work on this project.
 
 I used git(https://git-scm.com/) to work on this project.
 
@@ -160,4 +160,4 @@ Add the file item_catalog.conf
 
 Add the file item_catalog.wsgi
 
-restart the apache2 web server
+Restart the apache2 web server
